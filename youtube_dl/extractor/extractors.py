@@ -905,6 +905,7 @@ from .packtpub import (
     PacktPubIE,
     PacktPubCourseIE,
 )
+from .panopto import PanoptoIE
 from .palcomp3 import (
     PalcoMP3IE,
     PalcoMP3ArtistIE,
